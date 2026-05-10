@@ -1,0 +1,38 @@
+{
+  "name": "SpeakPal - AI英语口语陪练",
+  "short_name": "SpeakPal",
+  "description": "AI虚拟老师陪你练习英语口语，随时随地提升口语能力",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#2563eb",
+  "orientation": "portrait",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "productivity"],
+  "lang": "zh-CN",
+  "dir": "ltr",
+  "shortcuts": [
+    {
+      "name": "开始练习",
+      "short_name": "练习",
+      "description": "快速开始英语口语练习",
+      "url": "/practice",
+      "icons": [{ "src": "/favicon.svg", "sizes": "any" }]
+    },
+    {
+      "name": "选择场景",
+      "short_name": "场景",
+      "description": "选择练习场景",
+      "url": "/scenarios",
+      "icons": [{ "src": "/favicon.svg", "sizes": "any" }]
+    }
+  ]
+}
