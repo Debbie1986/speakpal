@@ -2,12 +2,12 @@
   "name": "SpeakPal - AI英语口语陪练",
   "short_name": "SpeakPal",
   "description": "AI虚拟老师陪你练习英语口语，随时随地提升口语能力",
-  "start_url": "/",
+  "start_url": "/speakpal/",
   "display": "standalone",
   "background_color": "#f8fafc",
   "theme_color": "#2563eb",
   "orientation": "portrait",
-  "scope": "/",
+  "scope": "/speakpal/",
   "icons": [
     {
       "src": "/favicon.svg",
